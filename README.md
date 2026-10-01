@@ -29,7 +29,7 @@ Aqui você encontrará meus projetos, estudos e experiências práticas desenvol
 
 ## 📫 Contato
 
-* GitHub: https://github.com/SEU_USUARIO
+* GitHub: https://github.com/felipealmeida
 * LinkedIn: [adicione seu LinkedIn aqui]
 
 ---
